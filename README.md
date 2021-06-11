@@ -4,6 +4,11 @@
   <img align="left" alt="Coding" width="50%" src="https://auditore.com.br/cover-shu.gif">
   <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuhikari&show_border=false&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&hide_border=true" alt="shuhikari" />
    <img width="50%" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=shuhikari&theme=ayu-mirage&hide_border=true" alt="shuhikari" />
+   
+   <p align="left">
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+  </p>
   <p align="center">
     <i>We're all a bunch of serverless APIs without docs, Let's just learn to get along together!</i>
  
