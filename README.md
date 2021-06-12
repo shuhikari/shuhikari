@@ -7,7 +7,63 @@
    
    <p align="left">
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-586546%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    130 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.57% 
+🌆 Daytime    216 commits    ██████░░░░░░░░░░░░░░░░░░░   25.87% 
+🌃 Evening    268 commits    ████████░░░░░░░░░░░░░░░░░   32.1% 
+🌙 Night      221 commits    ██████░░░░░░░░░░░░░░░░░░░   26.47%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       89 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.66% 
+Tuesday      127 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.21% 
+Wednesday    246 commits    ███████░░░░░░░░░░░░░░░░░░   29.46% 
+Thursday     146 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.49% 
+Friday       140 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.77% 
+Saturday     49 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.87% 
+Sunday       38 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/shuhikari/shuhikari/main/charts/bar_graph.png) 
+
+
+ Last Updated on 12/06/2021
+<!--END_SECTION:waka-->
   </p>
   <p align="center">
     <i>We're all a bunch of serverless APIs without docs, Let's just learn to get along together!</i>
