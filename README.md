@@ -25,11 +25,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shuikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shuikari" height="30" width="40" /></a>
+<a href="https://twitter.com/shuhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shuikari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/edipomaciel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edipomaciel" height="30" width="40" /></a>
 <a href="https://instagram.com/shuhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shuhikari" height="30" width="40" /></a>
 </p>
-<p align="left"> <a href="https://twitter.com/shuikari" target="blank"><img src="https://img.shields.io/twitter/follow/shuikari?logo=twitter&style=for-the-badge" alt="shuikari" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shuihkari" target="blank"><img src="https://img.shields.io/twitter/follow/shuhikari?logo=twitter&style=for-the-badge" alt="shuhikari" /></a> </p>
 
 -------
   
