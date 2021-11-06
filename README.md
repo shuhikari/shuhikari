@@ -67,8 +67,8 @@ Sunday       38 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               7 mins              ████████████████████████░   98.8% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2%
+TypeScript               7 mins              ████████████████████████░   98.81% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19%
 
 🐱‍💻 Projects: 
 inagesp-ambiental-front  7 mins              █████████████████████████   100.0%
@@ -92,7 +92,7 @@ HTML                     2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shuhikari/shuhikari/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/11/2021
+ Last Updated on 06/11/2021
 <!--END_SECTION:waka-->
   </p>
   <p>
