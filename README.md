@@ -38,7 +38,7 @@
   
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C651%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C651%20hrs%2039%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -94,7 +94,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shuhikari/shuhikari/main/assets/bar_graph.png)
 
 
- Last Updated on 30/03/2024 00:32:16 UTC
+ Last Updated on 31/03/2024 00:34:52 UTC
 <!--END_SECTION:waka-->
   </p>
   <p>
