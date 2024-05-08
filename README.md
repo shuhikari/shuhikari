@@ -67,12 +67,10 @@ Sunday                   1424 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               17 mins             █████████████████████████   98.37 % 
-Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-byd-accredited-backend   17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -92,7 +90,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shuhikari/shuhikari/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2024 00:32:39 UTC
+ Last Updated on 08/05/2024 00:33:00 UTC
 <!--END_SECTION:waka-->
   </p>
   <p>
