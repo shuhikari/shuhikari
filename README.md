@@ -67,13 +67,10 @@ Sunday                   884 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████░░░░░░░░   66.39 % 
-JSON                     0 secs              █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Prisma                   0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-odre-online-api          0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -93,7 +90,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shuhikari/shuhikari/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2024 00:31:49 UTC
+ Last Updated on 17/08/2024 00:31:05 UTC
 <!--END_SECTION:waka-->
   </p>
   <p>
