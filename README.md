@@ -67,10 +67,12 @@ Sunday                   870 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     19 mins             ███████████████░░░░░░░░░░   61.91 % 
+TypeScript               12 mins             ██████████░░░░░░░░░░░░░░░   38.06 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+angular-training         31 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -90,7 +92,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shuhikari/shuhikari/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2025 00:37:39 UTC
+ Last Updated on 05/01/2025 00:41:24 UTC
 <!--END_SECTION:waka-->
   </p>
   <p>
