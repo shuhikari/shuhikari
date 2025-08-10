@@ -38,7 +38,7 @@
   
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C730%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C733%20hrs%2020%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -67,9 +67,9 @@ Sunday                   1094 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 56 mins       ██████████████████████░░░   87.26 % 
-Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Prisma                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+TypeScript               2 hrs 56 mins       ██████████████████████░░░   87.25 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Prisma                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
@@ -95,7 +95,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shuhikari/shuhikari/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2025 00:47:42 UTC
+ Last Updated on 10/08/2025 00:49:29 UTC
 <!--END_SECTION:waka-->
   </p>
   <p>
