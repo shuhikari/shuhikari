@@ -38,6 +38,8 @@
   
   
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C741%20hrs%2044%20mins-blue)
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -55,7 +57,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shuhikari/shuhikari/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2025 00:46:16 UTC
+ Last Updated on 21/09/2025 00:45:33 UTC
 <!--END_SECTION:waka-->
   </p>
   <p>
