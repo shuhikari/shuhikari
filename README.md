@@ -38,6 +38,41 @@
   
   
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C741%20hrs%2044%20mins-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                16626 commits       ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+🌆 Daytime                32768 commits       ████████████░░░░░░░░░░░░░   48.72 % 
+🌃 Evening                9312 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+🌙 Night                  8549 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   12800 commits       █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+Tuesday                  14851 commits       ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+Wednesday                13471 commits       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+Thursday                 16720 commits       ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+Friday                   7571 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Saturday                 765 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Sunday                   1077 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -55,7 +90,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shuhikari/shuhikari/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 00:50:31 UTC
+ Last Updated on 29/09/2025 00:44:00 UTC
 <!--END_SECTION:waka-->
   </p>
   <p>
