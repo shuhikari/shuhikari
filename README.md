@@ -38,8 +38,6 @@
   
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C742%20hrs%2010%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -67,10 +65,13 @@ Sunday                   1222 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               47 mins             ██████████████████░░░░░░░   72.04 % 
+JSON                     18 mins             ███████░░░░░░░░░░░░░░░░░░   27.89 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hmax-api-hub             1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -90,7 +91,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shuhikari/shuhikari/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2025 00:46:15 UTC
+ Last Updated on 02/11/2025 00:46:27 UTC
 <!--END_SECTION:waka-->
   </p>
   <p>
