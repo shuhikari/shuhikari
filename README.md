@@ -67,10 +67,12 @@ Sunday                   1187 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hmax-booking-engine      21 mins             ██████████████████████░░░   88.19 % 
+hmax-channel-manager-api 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+hmax-booking-dashboard   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -90,7 +92,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shuhikari/shuhikari/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2025 00:47:43 UTC
+ Last Updated on 06/12/2025 00:46:45 UTC
 <!--END_SECTION:waka-->
   </p>
   <p>
