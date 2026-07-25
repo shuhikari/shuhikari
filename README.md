@@ -38,39 +38,6 @@
   
   
   <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                46078 commits       ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
-🌆 Daytime                90298 commits       ████████████░░░░░░░░░░░░░   48.46 % 
-🌃 Evening                26443 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-🌙 Night                  23532 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   27976 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Tuesday                  38339 commits       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-Wednesday                38577 commits       █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-Thursday                 41454 commits       ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-Friday                   33844 commits       █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-Saturday                 3195 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Sunday                   2966 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -88,7 +55,7 @@ Pascal                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shuhikari/shuhikari/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 04:06:18 UTC
+ Last Updated on 25/07/2026 03:55:40 UTC
 <!--END_SECTION:waka-->
   </p>
   <p>
