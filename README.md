@@ -38,26 +38,24 @@
   
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C736%20hrs%2052%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                47866 commits       ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-🌆 Daytime                94392 commits       ████████████░░░░░░░░░░░░░   48.53 % 
-🌃 Evening                27629 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-🌙 Night                  24613 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+🌞 Morning                46844 commits       ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+🌆 Daytime                91950 commits       ████████████░░░░░░░░░░░░░   48.51 % 
+🌃 Evening                26835 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+🌙 Night                  23907 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   29491 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Tuesday                  40194 commits       █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Wednesday                40189 commits       █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-Thursday                 43413 commits       ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-Friday                   34907 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Saturday                 3278 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Sunday                   3028 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Monday                   28464 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Tuesday                  38978 commits       █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+Wednesday                39298 commits       █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+Thursday                 42204 commits       ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+Friday                   34349 commits       █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Saturday                 3256 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Sunday                   2987 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
 
 
@@ -96,7 +94,7 @@ Pascal                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shuhikari/shuhikari/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 03:51:20 UTC
+ Last Updated on 29/07/2026 03:52:58 UTC
 <!--END_SECTION:waka-->
   </p>
   <p>
